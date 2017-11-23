@@ -9,6 +9,7 @@
     "debug-win": "SET DEBUG=tutorial__local_library:* & npm run devstart"
   },
   "dependencies": {
+    "async": "^2.6.0",
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
     "debug": "~3.1.0",
